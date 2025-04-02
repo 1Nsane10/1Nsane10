@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m currently learning knowledge about AI.
+- Plus,I'm not good at English at all. 
 
 <!--
 **1Nsane10/1Nsane10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
